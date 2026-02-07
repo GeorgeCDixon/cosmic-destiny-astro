@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658984045622",
+    "project_id": "astro-app-60597",
+    "storage_bucket": "astro-app-60597.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658984045622:android:90fdc70c9e21b1abc75c97",
+        "android_client_info": {
+          "package_name": "com.cosmicdestiny.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsvvRadyMIduTLrhfpEIGcgsKNidgyrFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
